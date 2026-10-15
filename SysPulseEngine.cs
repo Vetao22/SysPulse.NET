@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using TerminalGrid.NET; // Reutilizando a nossa grid engine para painéis e tabelas
+using TerminalGrid.NET;
 
 namespace SysPulse.NET
 {
